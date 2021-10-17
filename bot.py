@@ -102,6 +102,7 @@ while i:
     2.Registro
     3.Recuperar
     4.Cambiar
+    5.Salir
     """)
     j= input("Que quieres hacer: ")
     if j=="1": 
